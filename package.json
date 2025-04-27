@@ -1,0 +1,19 @@
+{
+  "name": "testflight-monitor",
+  "version": "1.0.0",
+  "description": "Monitor multiple TestFlight links for availability and send Telegram notifications",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.13.5",
+    "node-notifier": "^10.0.1",
+    "winston": "^3.11.0"
+  }
+}
