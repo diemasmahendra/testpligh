@@ -2,6 +2,9 @@
 
 A Node.js utility that monitors a TestFlight beta link and sends notifications to Telegram when slots become available.
 
+GitHub Repository
+Find the latest version and contribute to the project: [https://github.com/gusbalah]
+
 ## Features
 
 - Periodically checks if a TestFlight beta has available slots
