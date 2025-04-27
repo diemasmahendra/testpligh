@@ -34,7 +34,7 @@ Edit the `.env` file to configure the following:
 
 ```
 # TestFlight Configuration
-TESTFLIGHT_URL=https://testflight.apple.com/join/72eyUWVE
+TESTFLIGHT_URL=https://testflight.apple.com/join/72eyUWVE,https://testflight.apple.com/join/gdE4pRzI
 CHECK_INTERVAL_MINUTES=5
 MAX_RETRIES=3
 RETRY_DELAY_SECONDS=30
